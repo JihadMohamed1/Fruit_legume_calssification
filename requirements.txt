@@ -3,4 +3,5 @@ streamlit
 tensorflow
 matplotlib
 numpy
+sklearn
 
