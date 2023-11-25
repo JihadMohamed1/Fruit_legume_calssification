@@ -4,4 +4,5 @@ tensorflow
 matplotlib
 numpy
 sklearn
-
+LogisticRegression
+train_test_split
