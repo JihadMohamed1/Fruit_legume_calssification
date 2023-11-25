@@ -1,8 +1,6 @@
 pandas 
-LogisticRegression
-train_test_split
 streamlit
 tensorflow
-matplotlib.pyplot
+matplotlib
 numpy
 
