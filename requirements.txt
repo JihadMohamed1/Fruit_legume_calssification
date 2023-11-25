@@ -1,5 +1,8 @@
-pandas
+pandas 
+LogisticRegression
+train_test_split
 streamlit
-numpy
 tensorflow
+matplotlib.pyplot
+numpy
 
